@@ -1,2 +1,10 @@
-# refactored-rotary-phone
-This is an ecommerce project
+# Intro
+
+## Step One
+
+### Sub Step
+
+This is normal text
+
+- point one
+- point two
