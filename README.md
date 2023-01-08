@@ -7,4 +7,5 @@
 This is normal text
 
 - point one
+- point three
 - point two
